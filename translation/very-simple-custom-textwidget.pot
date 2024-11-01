@@ -1,0 +1,99 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Very Simple Custom Textwidget\n"
+"POT-Creation-Date: 2018-06-10 23:35+0200\n"
+"PO-Revision-Date: 2015-09-20 16:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: vsct.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: vsct-widget.php:10
+msgid "Text widget with extra input fields for image and more info link."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: vsct-widget.php:11 vsct-widget.php:25
+msgid "Very Simple Custom Textwidget"
+msgstr ""
+
+#: vsct-widget.php:34
+msgid "Title"
+msgstr ""
+
+#: vsct-widget.php:38
+msgid "Image"
+msgstr ""
+
+#: vsct-widget.php:39
+msgid "Example: www.mydomain.com/wp-content/uploads..."
+msgstr ""
+
+#: vsct-widget.php:42
+msgid "Display image"
+msgstr ""
+
+#: vsct-widget.php:44
+msgid "Above content"
+msgstr ""
+
+#: vsct-widget.php:45
+msgid "Underneath content"
+msgstr ""
+
+#: vsct-widget.php:46
+msgid "Underneath link to more info"
+msgstr ""
+
+#: vsct-widget.php:50
+msgid "Content"
+msgstr ""
+
+#: vsct-widget.php:54
+msgid "Link to more info"
+msgstr ""
+
+#: vsct-widget.php:55
+msgid "Example: www.mydomain.com/news"
+msgstr ""
+
+#: vsct-widget.php:58
+msgid "Link label"
+msgstr ""
+
+#: vsct-widget.php:59
+msgid "Example: More info"
+msgstr ""
+
+#: vsct-widget.php:63
+msgid "Open link in new window"
+msgstr ""
+
+#: vsct-widget.php:117
+msgid "More info"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a very simple plugin to add a custom text widget in your sidebar. "
+"For more info please check readme file."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Guido"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.guido.site"
+msgstr ""

@@ -1,0 +1,19 @@
+/* Very Simple Custom Textwidget stylesheet */
+
+/* Widget wrapper */
+.vsct-sidebar {}
+.vsct-sidebar:after {content:''; display:block; height:0; clear:both;}
+
+/* Widget elements */
+.vsct-image-default, .vsct-image-top, .vsct-image-middle, .vsct-image-bottom {clear:both; width:100%; height:auto; margin:0; border:0;}
+.vsct-image-default {padding:0;}
+.vsct-image-top {padding:0 0 20px;}
+.vsct-image-middle {padding:0 0 20px;}
+.vsct-image-bottom {padding:20px 0 0;}
+.vsct-text {}
+.vsct-link {}
+.vsct-link a {}
+.vsct-link a:hover {}
+
+/* Support old plugin versions */
+.vsct-image {clear:both; width:100%; height:auto; margin:0; padding:0 0 20px; border:0;}
